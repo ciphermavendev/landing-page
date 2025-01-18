@@ -1,4 +1,4 @@
-# landing-page# BusinessPro Next.js Project
+# landing-page
 
 A modern web application built with Next.js 15, React 19, and TypeScript, featuring a clean UI with Geist font integration and Tailwind CSS for styling.
 
